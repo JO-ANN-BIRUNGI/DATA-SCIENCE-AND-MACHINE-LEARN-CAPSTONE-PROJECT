@@ -11,7 +11,7 @@ Random Forest Regressor (RF): Classical machine learning model capturing nonline
 Long Short-Term Memory (LSTM): Sequential deep learning model capable of learning temporal dependencies.
 Model performance was evaluated using Mean Squared Error (MSE), Mean Absolute
 
-Recommendations for Stakeholders
+# Recommendations for Stakeholders
 
 Farmers and Agricultural Planners
 Use the daily temperature forecasts to optimize irrigation schedules and crop protection strategies.
@@ -48,7 +48,7 @@ Use the predictions to design policies for climate-resilient agriculture and ene
 
 Extend the methodology to other regions or additional weather variables for broader applications.
 
-General Recommendation
+# General Recommendation
 
 LSTM model is preferred for operational use due to its superior accuracy in capturing temporal and seasonal patterns.
 
