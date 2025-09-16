@@ -4,7 +4,7 @@ This project aimed to forecast daily air temperature in Doho, Uganda, using hist
 
 The dataset included daily measurements of air temperature, humidity, minimum and maximum temperatures, and station identifiers. Feature engineering was applied to capture temporal and seasonal patterns, including lag variables (1–14 days), rolling statistics (7-day averages and standard deviations), date-based features (month, day-of-year, weekday), and one-hot encoded station identifiers.
 
-Three modeling approaches were employed:
+Two modeling approaches were employed:
 
 Random Forest Regressor (RF): Classical machine learning model capturing nonlinear relationships.
 
